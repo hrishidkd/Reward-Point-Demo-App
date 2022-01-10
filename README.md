@@ -2,7 +2,7 @@
 Demo spring boot application for calculating reward point of customers
 
 **Setup: **
-Clone this project from git into eclipse or STS.
+Clone this project from git into eclipse or STS using https://github.com/hrishidkd/Reward-Point-Demo-App.git.
 Build this project.
 Run this project as Spring Boot App.
 Sample data is automatically inserted into the H2 database by the data.sql file placed uder resources.
